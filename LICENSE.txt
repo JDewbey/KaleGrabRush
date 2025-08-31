@@ -1,0 +1,10 @@
+All Rights Reserved — LicenseRef-Proprietary
+
+© 2025 James S Dewberry
+
+Permission is NOT granted to copy, modify, merge, publish, distribute, sublicense, or sell
+this software or its assets, in whole or in part, except with express written permission
+from the copyright holder.
+
+Limited Evaluation Permission: Running and reviewing compiled builds for personal evaluation
+or hackathon judging is allowed. No other rights are granted. No implied license.
